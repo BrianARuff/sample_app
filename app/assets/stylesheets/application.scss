@@ -135,3 +135,7 @@ input {
     color: $state-danger-text;
   }
 }
+
+html > body > div.container > div.row > div > form > h3.btn.btn-success.btn-block > a {
+  color: white !important;
+}
